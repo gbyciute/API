@@ -1,0 +1,17 @@
+#inputas {
+    background-color: pink;
+    width: 100px;
+    margin-bottom: 6px;
+}
+
+#searchButton {
+    width: 100px;
+    height: 24px;
+    margin-left: 4px;
+}
+
+#container {
+    display: flex;
+    text-align: start;
+    flex-direction: column;
+}
